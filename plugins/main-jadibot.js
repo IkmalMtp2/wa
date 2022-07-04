@@ -5,9 +5,8 @@ let dana = global.dana
 let pulsa = global.pulsa
 let gopay = global.gopay
 let numberowner = global.numberowner
-let anu = `Hallo mypren 👋
-*MAAF KAK FITUR JADIBOT TIDAK ADA DI DALAM FITUR KAMI*
-⟩» *Kalau kakak mau jadi bot silahkan jasa run aja kak*
+let anu = `Hallo
+⟩» *Fitur Ini Khusus Premium Ya Jika Ingin Beli Silahkan Cek Harga Di Bawah Ini*
           
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
 ⬡ *1 BULAN* 15.000
