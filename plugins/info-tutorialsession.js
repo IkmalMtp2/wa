@@ -4,7 +4,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*TUTORIAL BANH!!*
+*NIH TUTORIALNYA*
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya8)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
