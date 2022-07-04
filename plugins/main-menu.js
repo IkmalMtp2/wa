@@ -306,7 +306,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             "title": `*${ucapan()}, ${name}*`.trim(),
                         "description": `©️ *FrezeXBOT*`.trim(),
                         "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
-                        "buttonText": "Click Here",
+                        "buttonText": "Click Disini!!",
             listType: 1,
            FooterText:'',
             mtype: 'listMessage',
@@ -327,7 +327,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "rowId": `.sewazifa`
                  },{
               	"title": `💬⟩⟩» RULES BOT`,
-                  "description": "Rules Yang Harus Di Patuhi User Shinn",
+                  "description": "Rules Yang Harus Di Patuhi User Ikmal",
                   "rowId": `.snk`
                 }],
                 "title": "⟣─────────❲ 𝗜 𝗡 𝗙 𝗢 ❳──────────⟢"
@@ -554,7 +554,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            {
              quickReplyButton: {
                displayText: 'Group Offcial',
-               id: '.gcbot',
+               id: '.gc',
              }
            }]
          }
